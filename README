@@ -13,4 +13,4 @@
 				-> shape and orientation in TOPOSETDICT (to set particular lenght and orientation please refer to Python file Angle_Length_topoSetDict.py)
 				-> dynamic features in path background/constant/dynamicMeshDict
 
-ENJOY
+- Remember to change to Allrun and Allclean according to your directory path
