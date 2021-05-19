@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------------------------------------------------
+------------ FREE FALLING CYLINDER SIMULATION USING OVERSET METHOD -------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+
+- Download this repository into a RUN folder of OpenFOAM run path version v2012
+
+
+- For domain features please see BACKGROUND folder
+
+
+- For object features please see FLOATINGBODY folder
+				
+				-> shape and orientation in TOPOSETDICT (to set particular lenght and orientation please refer to Python file Angle_Length_topoSetDict.py)
+				-> dznamic features in path background/constant/dynamicMeshDict
+
+ENJOY
